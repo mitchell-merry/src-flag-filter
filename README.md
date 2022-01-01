@@ -19,9 +19,11 @@ Please, if you would like to help with any of the above, feel free to fork and s
 
 ## Usage
 From the popup window (ignore the text, I am fully capable and do make the rules):
+
 ![Popup demonstration](https://i.imgur.com/BAgJIEi.png)
 
 Results in:
+
 ![Resulting filter](https://i.imgur.com/Ojvkrjg.png)
 
 Wow! Cool!
