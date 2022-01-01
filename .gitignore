@@ -1,0 +1,4 @@
+# Chrome extension stuff
+*.crx
+*.pem
+*.zip
