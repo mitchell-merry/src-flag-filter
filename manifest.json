@@ -1,0 +1,28 @@
+{
+    "name": "Speedrun.com Flag Filter",
+    "description": "Filters leaderboard by flag. Use with caution as people's flags may not necessarily be correct.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches" : ["https://*.speedrun.com/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Filter leaderboard by flag here.",
+        "default_icon": {
+            "16": "icon.png",
+            "32": "icon.png",
+            "48": "icon.png",
+            "128": "icon.png"
+        }
+    },
+    "icons": {
+        "16": "icon.png",
+        "32": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }
+}
