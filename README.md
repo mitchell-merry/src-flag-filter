@@ -34,6 +34,6 @@ Simple enough:
 - manifest.json is properties regarding the Chrome extension.
 
 ## Installation
-To download this chrome extension from the Chrome Web Store, you will need to wait a bit as it is not up yet. sowwy
+*This extension is not available from the CWS. I do not plan on making it available, unless there is significant demand.*
 
 Otherwise, clone or download this repository to a folder on your computer. Go to chrome://extensions and turn on Developer mode from the taskbar. Then, click "Load unpacked" and select the parent folder of the repo. Reload the extension using the refresh button when you make changes.

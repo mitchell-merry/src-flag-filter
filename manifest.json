@@ -1,7 +1,7 @@
 {
     "name": "Speedrun.com Flag Filter",
     "description": "Filters leaderboard by flag. Use with caution as people's flags may not necessarily be correct.",
-    "version": "1.0",
+    "version": "0.0.1",
     "manifest_version": 3,
     "content_scripts": [
         {
