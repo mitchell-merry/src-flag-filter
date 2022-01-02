@@ -36,7 +36,8 @@ chrome.runtime.onMessage.addListener((request) => {
 
             // if (passes filter)
             if(country === "" || username?.children?.[0].dataset.originalTitle === country) {
-                rank.textContent = `${place} (${i+1})`;
+                rank.textContent = `${place}`;
+                if(country !== "") rank.textContent += ` (${i+1})`;
 
                 lb_row.classList.remove(CIS.hidden);
                 place++;
