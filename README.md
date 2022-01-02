@@ -7,6 +7,7 @@ Works only with the new redesign of src. Working as of 1/1/2022. Whipped up in a
 
 See the following:
 - Runs by non-src accounts with a flag will not be filtered (will be missed).
+- Co-op runs are not accounted for
 - Trophy Icons are lost.
 - Input is not stored on popup close.
   - Country codes are not supported, just the tooltip on flag hover.
